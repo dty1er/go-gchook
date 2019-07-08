@@ -1,5 +1,7 @@
 ## go-gchook
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/yagi5/go-gchook)](https://goreportcard.com/report/github.com/yagi5/go-gchook)
+[![GoDoc](https://godoc.org/github.com/yagi5/go-gchook?status.svg)](https://godoc.org/github.com/yagi5/go-gchook)
 
 
 Inject arbitary actions when go garbage collector worked
