@@ -4,7 +4,7 @@
 [![GoDoc](https://godoc.org/github.com/yagi5/go-gchook?status.svg)](https://godoc.org/github.com/yagi5/go-gchook)
 
 
-Inject arbitary actions when go garbage collector worked
+Inject and run arbitary actions when go garbage collector worked
 
 ## Installation
 
@@ -13,8 +13,6 @@ $ go get -u github.com/yagi5/go-gchook
 ```
 
 ## Usage
-
-You can also try this with [The Go Playground](https://play.golang.org/p/4IPSzsfkSuL).
 
 ```
 package main
