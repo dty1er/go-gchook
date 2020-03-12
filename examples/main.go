@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/yagi5/go-gchook"
+	"github.com/dty1er/go-gchook"
 )
 
 func main() {
