@@ -1,7 +1,7 @@
 ## go-gchook
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/yagi5/go-gchook)](https://goreportcard.com/report/github.com/yagi5/go-gchook)
-[![GoDoc](https://godoc.org/github.com/yagi5/go-gchook?status.svg)](https://godoc.org/github.com/yagi5/go-gchook)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dty1er/go-gchook)](https://goreportcard.com/report/github.com/dty1er/go-gchook)
+[![GoDoc](https://godoc.org/github.com/dty1er/go-gchook?status.svg)](https://godoc.org/github.com/dty1er/go-gchook)
 
 
 Inject and run arbitary actions when go garbage collector worked
@@ -9,7 +9,7 @@ Inject and run arbitary actions when go garbage collector worked
 ## Installation
 
 ```
-$ go get -u github.com/yagi5/go-gchook
+$ go get -u github.com/dty1er/go-gchook
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/yagi5/go-gchook"
+	"github.com/dty1er/go-gchook"
 )
 
 func main() {
@@ -68,8 +68,8 @@ func gc2() {
 
 ## Author
 
-[Hidetatsu Yaginuma](https://github.com/yagi5)
+[Hidetatsu Yaginuma](https://github.com/dty1er)
 
 ## LICENSE
 
-[MIT](https://github.com/yagi5/go-gchook/blob/master/LICENSE)
+[MIT](https://github.com/dty1er/go-gchook/blob/master/LICENSE)
